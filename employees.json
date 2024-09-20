@@ -1,0 +1,20 @@
+[
+{
+  "name":"Oğuz Arıtan",
+  "departman":"it",
+  "salary":4000
+},
+  
+{
+  "name":"Mogoz Barıtan",
+  "departman":"sales",
+  "salary":1005
+},
+
+
+{
+  "name":"Loğuz Karıtan",
+  "departman":"HR",
+  "salary":8000
+}
+]
